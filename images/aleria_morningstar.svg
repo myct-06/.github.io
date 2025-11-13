@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
+  <!-- 背景 -->
+  <rect width="300" height="400" fill="#f5f8ff" rx="10" ry="10"/>
+  
+  <!-- 头部 -->
+  <circle cx="150" cy="120" r="40" fill="#f8d7da"/>
+  
+  <!-- 精灵耳朵 -->
+  <path d="M110,120 C100,100 95,80 110,90 C120,100 110,120 110,120 Z" fill="#f8d7da"/>
+  <path d="M190,120 C200,100 205,80 190,90 C180,100 190,120 190,120 Z" fill="#f8d7da"/>
+  
+  <!-- 头发 -->
+  <path d="M150,80 C120,75 95,100 90,140 C90,180 100,210 150,210 L150,210 L210,210 C260,210 270,180 270,140 C265,100 240,75 210,80" fill="#f0d177"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="135" cy="115" r="6" fill="#3498db"/>
+  <circle cx="165" cy="115" r="6" fill="#3498db"/>
+  <circle cx="138" cy="113" r="2" fill="white"/>
+  <circle cx="168" cy="113" r="2" fill="white"/>
+  
+  <!-- 嘴巴 -->
+  <path d="M135,135 Q150,145 165,135" fill="none" stroke="#e74c3c" stroke-width="2"/>
+  
+  <!-- 身体 -->
+  <path d="M150,210 C130,230 120,260 120,290 C120,330 130,350 150,380 L150,380 L150,380 C170,350 180,330 180,290 C180,260 170,230 150,210 Z" fill="#2ecc71"/>
+  
+  <!-- 连衣裙 -->
+  <path d="M150,230 C130,260 100,290 120,330 C140,370 160,370 180,330 C200,290 170,260 150,230 Z" fill="#27ae60"/>
+  
+  <!-- 手臂 -->
+  <path d="M120,250 C100,260 80,270 85,290" fill="none" stroke="#f8d7da" stroke-width="15" stroke-linecap="round"/>
+  <path d="M180,250 C200,260 220,270 215,290" fill="none" stroke="#f8d7da" stroke-width="15" stroke-linecap="round"/>
+  
+  <!-- 手部 -->
+  <circle cx="85" cy="290" r="8" fill="#f8d7da"/>
+  <circle cx="215" cy="290" r="8" fill="#f8d7da"/>
+  
+  <!-- 光魔法 -->
+  <circle cx="85" cy="285" r="15" fill="none" stroke="#f1c40f" stroke-width="3" stroke-dasharray="5,5"/>
+  <path d="M95,275 L105,295 L90,290 L95,305" fill="#f1c40f"/>
+  
+  <!-- 魔法符号 -->
+  <text x="150" y="320" font-family="Arial" font-size="12" text-anchor="middle" fill="#ecf0f1">✨</text>
+  
+  <!-- 角色名称 -->
+  <text x="150" y="360" font-family="Arial" font-size="14" text-anchor="middle" fill="#2c3e50">艾莉亚·晨星</text>
+  <text x="150" y="380" font-family="Arial" font-size="12" text-anchor="middle" fill="#7f8c8d">精灵魔法师</text>
+</svg>
